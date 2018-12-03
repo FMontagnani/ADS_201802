@@ -1,0 +1,64 @@
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuPrincipal.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroCliente.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroDeFornecedor.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroCaixa.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroDeProduto.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CriarRelatorio.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoEstoque.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoCaixa.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoProducao.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoPedidos.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrevisaoDeOferta.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LocalDeEstoque.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SolicitarAcesso.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LiberarUsuario.resources
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\psben\OneDrive\Documentos\Visual Studio\csharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\System.Data.SQLite.xml
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroDeFornecedor.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroCaixa.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroDeProduto.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CriarRelatorio.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LiberarUsuario.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoEstoque.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoCaixa.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoProducao.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MovimentacaoPedidos.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.PrevisaoDeOferta.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LocalDeEstoque.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SolicitarAcesso.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MenuPrincipal.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CadastroCliente.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\fabri\Documents\Projeto\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
